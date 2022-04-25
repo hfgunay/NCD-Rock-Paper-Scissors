@@ -1,6 +1,6 @@
-# Tic-Tac-Toe as a NEAR contract
+# Rock-Paper-Scissors game as a NEAR contract
 
-Video demo: [here]()
+Video demo: [here](https://www.loom.com/share/fbd896f412aa43d7ad454f55e7976429)
 
 
 ## Install dependencies
