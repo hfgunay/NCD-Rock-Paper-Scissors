@@ -1,4 +1,4 @@
-# Tic-Tac-Toe as a NEAR contract
+# Rock-Paper-Scissors game as a NEAR contract
 
 Video demo: [here]()
 
